@@ -17,3 +17,12 @@
 ### SQL (Structured Query Language)
 | Problem Set | Solution | Difficulty |
 | ------------- | ------------- | ------------- |
+| [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem) | [SQL](https://github.com/gianmillare/HackerRank/blob/master/sql/medium/weather_observation_station_18.sql) | Medium |
+| [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [SQL](https://github.com/gianmillare/HackerRank/blob/master/sql/easy/revising_the_select_query_1.sql) | Easy |
+| [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | [SQL](https://github.com/gianmillare/HackerRank/blob/master/sql/easy/revising_the_select_query_2.sql) | Easy |
+| [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem) | [SQL](https://github.com/gianmillare/HackerRank/blob/master/sql/easy/select_all.sql) | Easy |
+| [Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem) | [SQL](https://github.com/gianmillare/HackerRank/blob/master/sql/easy/select_by_id.sql) | Easy |
+| [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem) | [SQL](https://github.com/gianmillare/HackerRank/blob/master/sql/easy/japanese_cities_attributes.sql) | Easy |
+| [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem) | [SQL](https://github.com/gianmillare/HackerRank/blob/master/sql/easy/weather_observation_station_1.sql) | Easy |
+| [Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3/problem) | [SQL](https://github.com/gianmillare/HackerRank/blob/master/sql/easy/weather_observation_station_3.sql) | Easy |
+| [Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4/problem) | [SQL](https://github.com/gianmillare/HackerRank/blob/master/sql/easy/weather_observation_station_4.sql) | Easy |
