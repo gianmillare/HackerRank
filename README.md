@@ -1,5 +1,6 @@
-# HackerRank
+# HackerRank - Python, SQL
 
+### Python
 | Problem Set | Solution | Difficulty |
 | ------------- | ------------- | ------------- |
 | [Write a function](https://www.hackerrank.com/challenges/write-a-function/problem)  | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/medium/write_a_function.py)  | Medium |
@@ -12,3 +13,7 @@
 | [Loops](https://www.hackerrank.com/challenges/python-loops/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/easy/loops.py) | Easy |
 | [Print Function](https://www.hackerrank.com/challenges/python-print/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/easy/print_a_function.py) | Easy |
 | [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/easy/list_comprehension.py) | Easy |
+
+### SQL (Structured Query Language
+| Problem Set | Solution | Difficulty |
+| ------------- | ------------- | ------------- |
