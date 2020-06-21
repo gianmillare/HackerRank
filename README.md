@@ -1,2 +1,6 @@
 # HackerRank
-A repository documenting my HackerRank solutions.
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
