@@ -1,4 +1,4 @@
-# HackerRank - Python, SQL
+# HackerRank 
 
 ### Python
 | Problem Set | Solution | Difficulty |
