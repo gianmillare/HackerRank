@@ -13,6 +13,7 @@
 | [Loops](https://www.hackerrank.com/challenges/python-loops/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/easy/loops.py) | Easy |
 | [Print Function](https://www.hackerrank.com/challenges/python-print/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/easy/print_a_function.py) | Easy |
 | [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/easy/list_comprehension.py) | Easy |
+| [Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem) | [Python]()
 
 ### SQL (Structured Query Language)
 | Problem Set | Solution | Difficulty |
