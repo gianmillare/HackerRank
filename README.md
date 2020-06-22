@@ -13,7 +13,16 @@
 | [Loops](https://www.hackerrank.com/challenges/python-loops/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/easy/loops.py) | Easy |
 | [Print Function](https://www.hackerrank.com/challenges/python-print/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/easy/print_a_function.py) | Easy |
 | [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/easy/list_comprehension.py) | Easy |
-| [Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem) | [Python]()
+| [Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/easy/find_the_runner_up_score.py) | Easy |
+| [Nested Lists](https://www.hackerrank.com/challenges/nested-list/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/easy/nested_list.py) | Easy |
+| [Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/easy/finding_the_percentage.py) | Easy |
+| [Lists](https://www.hackerrank.com/challenges/python-lists/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/easy/lists.py) | Easy |
+| [Tuples](https://www.hackerrank.com/challenges/python-tuples/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/easy/tuples.py) | Easy |
+| [sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/easy/swap_case.py) | Easy |
+| [String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/easy/string_split_and_join.py) | Easy |
+| [What's Your Name?](https://www.hackerrank.com/challenges/whats-your-name/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/easy/whats_your_name.py) | Easy |
+| [Mutations](https://www.hackerrank.com/challenges/python-mutations/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/easy/mutations.py) | Easy |
+| [Find a string](https://www.hackerrank.com/challenges/find-a-string/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/easy/find_a_string.py) | Easy |
 
 ### SQL (Structured Query Language)
 | Problem Set | Solution | Difficulty |
