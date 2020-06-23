@@ -23,6 +23,7 @@
 | [What's Your Name?](https://www.hackerrank.com/challenges/whats-your-name/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/easy/whats_your_name.py) | Easy |
 | [Mutations](https://www.hackerrank.com/challenges/python-mutations/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/easy/mutations.py) | Easy |
 | [Find a string](https://www.hackerrank.com/challenges/find-a-string/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/easy/find_a_string.py) | Easy |
+| [Exceptions](https://www.hackerrank.com/challenges/exceptions/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/easy/exceptions.py) | Easy |
 
 ### SQL (Structured Query Language)
 | Problem Set | Solution | Difficulty |
