@@ -24,6 +24,9 @@
 | [Mutations](https://www.hackerrank.com/challenges/python-mutations/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/easy/mutations.py) | Easy |
 | [Find a string](https://www.hackerrank.com/challenges/find-a-string/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/easy/find_a_string.py) | Easy |
 | [Exceptions](https://www.hackerrank.com/challenges/exceptions/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/easy/exceptions.py) | Easy |
+| [Collections.namedtuple()](https://www.hackerrank.com/challenges/py-collections-namedtuple/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/easy/collections_namedtuple.py) | Easy |
+| [Collections.OrderedDict()](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/easy/collections_ordereddict.py) | Easy |
+| [Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/easy/symmetric_difference.py) | Easy |
 
 ### SQL (Structured Query Language)
 | Problem Set | Solution | Difficulty |
