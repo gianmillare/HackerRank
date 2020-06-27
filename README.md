@@ -3,6 +3,7 @@
 ### Python
 | Problem Set | Solution | Difficulty |
 | ------------- | ------------- | ------------- |
+| [Reduce Function](https://www.hackerrank.com/challenges/reduce-function/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/medium/reduce_function.py) | Medium |
 | [Write a function](https://www.hackerrank.com/challenges/write-a-function/problem)  | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/medium/write_a_function.py)  | Medium |
 | [Find Angle MBC](https://www.hackerrank.com/challenges/find-angle/problem)  | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/medium/find_angle_mbc.py)  | Medium |
 | [Compress the String!](https://www.hackerrank.com/challenges/compress-the-string/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/medium/compress_the_string.py) | Medium |
