@@ -3,6 +3,8 @@
 ### Problem Solving - Algorithms
 | Problem Set | Solution | Difficulty |
 | ------------- | ------------- | ------------- |
+| [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/problem_solving_algorithms/easy/a_very_big_sum.py) | Easy |
+| [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/problem_solving_algorithms/easy/diagonal_difference.py) | Easy |
 | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/problem_solving_algorithms/easy/compare_the_triplets.py) | Easy |
 | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/problem_solving_algorithms/easy/simple_array_sum.py) | Easy |
 | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/problem_solving_algorithms/easy/solve_me_first.py) | Easy |
