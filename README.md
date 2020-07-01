@@ -14,6 +14,7 @@
 ### Problem Solving - Data Structures
 | Problem Set | Solution | Difficulty |
 | ------------- | ------------- | ------------- |
+| [Print the Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/problem_solving_data_structures/easy/print_the_elements_of_a_linked_list.py) | Easy |
 | [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/problem_solving_data_structures/easy/arrays_ds.py) | Easy |
 
 ### Python
