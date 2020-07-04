@@ -49,6 +49,12 @@
 | [Set .discard(), .remove() & .pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/easy/set_discard_remove_pop.py) | Easy |
 | [Incorrect Regex](https://www.hackerrank.com/challenges/incorrect-regex/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/easy/incorrect_regex.py) | Easy |
 
+### JavaScript (10 Days of JavaScript - HackerRank Event)
+| Problem Set | Solution | Difficulty |
+| ------------- | ------------- | ------------- |
+| [Day 0: Hello, World!](https://www.hackerrank.com/challenges/js10-hello-world/problem) | [JavaScript](https://github.com/gianmillare/HackerRank/blob/master/javascript/10_days_of_javascript/day_0/hello_world.js) | Easy |
+| [Day 0: Data Types](https://www.hackerrank.com/challenges/js10-data-types/problem) | [JavaScript](https://github.com/gianmillare/HackerRank/blob/master/javascript/10_days_of_javascript/day_0/data_types.js) | Easy |
+
 ### SQL (Structured Query Language)
 | Problem Set | Solution | Difficulty |
 | ------------- | ------------- | ------------- |
