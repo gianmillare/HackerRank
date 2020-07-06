@@ -54,6 +54,9 @@
 | ------------- | ------------- | ------------- |
 | [Day 0: Hello, World!](https://www.hackerrank.com/challenges/js10-hello-world/problem) | [JavaScript](https://github.com/gianmillare/HackerRank/blob/master/javascript/10_days_of_javascript/day_0/hello_world.js) | Easy |
 | [Day 0: Data Types](https://www.hackerrank.com/challenges/js10-data-types/problem) | [JavaScript](https://github.com/gianmillare/HackerRank/blob/master/javascript/10_days_of_javascript/day_0/data_types.js) | Easy |
+| [Day 1: Arithmetic Operators](https://www.hackerrank.com/challenges/js10-arithmetic-operators/problem) | [JavaScript](https://github.com/gianmillare/HackerRank/blob/master/javascript/10_days_of_javascript/day_1/arithmetic_operators.js) | Easy |
+| [Day 1: Functions](https://www.hackerrank.com/challenges/js10-function/problem) | [JavaScript](https://github.com/gianmillare/HackerRank/blob/master/javascript/10_days_of_javascript/day_1/functions.js) | Easy |
+| [Day 1: Let and Const](https://www.hackerrank.com/challenges/js10-let-and-const/problem) | [JavaScript](https://github.com/gianmillare/HackerRank/blob/master/javascript/10_days_of_javascript/day_1/let_and_const.js) | Easy |
 
 ### SQL (Structured Query Language)
 | Problem Set | Solution | Difficulty |
