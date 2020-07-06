@@ -57,6 +57,9 @@
 | [Day 1: Arithmetic Operators](https://www.hackerrank.com/challenges/js10-arithmetic-operators/problem) | [JavaScript](https://github.com/gianmillare/HackerRank/blob/master/javascript/10_days_of_javascript/day_1/arithmetic_operators.js) | Easy |
 | [Day 1: Functions](https://www.hackerrank.com/challenges/js10-function/problem) | [JavaScript](https://github.com/gianmillare/HackerRank/blob/master/javascript/10_days_of_javascript/day_1/functions.js) | Easy |
 | [Day 1: Let and Const](https://www.hackerrank.com/challenges/js10-let-and-const/problem) | [JavaScript](https://github.com/gianmillare/HackerRank/blob/master/javascript/10_days_of_javascript/day_1/let_and_const.js) | Easy |
+| [Day 2: Conditional Statements: If-Else](https://www.hackerrank.com/challenges/js10-if-else/problem) | [JavaScript](https://github.com/gianmillare/HackerRank/blob/master/javascript/10_days_of_javascript/day_2/conditional_statements_if_else.js) | Easy |
+| [Day 2: Conditional Statements: Switch](https://www.hackerrank.com/challenges/js10-switch/problem) | [JavaScript](https://github.com/gianmillare/HackerRank/blob/master/javascript/10_days_of_javascript/day_2/conditional_statements_switch.js) | Easy |
+| [Day 2: Loops](https://www.hackerrank.com/challenges/js10-loops/problem) | [JavaScript](https://github.com/gianmillare/HackerRank/blob/master/javascript/10_days_of_javascript/day_2/loops.js) | Easy |
 
 ### SQL (Structured Query Language)
 | Problem Set | Solution | Difficulty |
