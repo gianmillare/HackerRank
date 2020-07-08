@@ -60,6 +60,9 @@
 | [Day 2: Conditional Statements: If-Else](https://www.hackerrank.com/challenges/js10-if-else/problem) | [JavaScript](https://github.com/gianmillare/HackerRank/blob/master/javascript/10_days_of_javascript/day_2/conditional_statements_if_else.js) | Easy |
 | [Day 2: Conditional Statements: Switch](https://www.hackerrank.com/challenges/js10-switch/problem) | [JavaScript](https://github.com/gianmillare/HackerRank/blob/master/javascript/10_days_of_javascript/day_2/conditional_statements_switch.js) | Easy |
 | [Day 2: Loops](https://www.hackerrank.com/challenges/js10-loops/problem) | [JavaScript](https://github.com/gianmillare/HackerRank/blob/master/javascript/10_days_of_javascript/day_2/loops.js) | Easy |
+| [Day 3: Arrays](https://www.hackerrank.com/challenges/js10-arrays/problem) | [JavaScript](https://github.com/gianmillare/HackerRank/blob/master/javascript/10_days_of_javascript/day_3/arrays.js) | Easy |
+| [Day 3: Try, Catch, and Finally](https://www.hackerrank.com/challenges/js10-try-catch-and-finally/problem) | [JavaScript](https://github.com/gianmillare/HackerRank/blob/master/javascript/10_days_of_javascript/day_3/try_catch_and_finally.js) | Easy |
+| [Day 3: Throw](https://www.hackerrank.com/challenges/js10-throw/problem) | [JavaScript](https://github.com/gianmillare/HackerRank/blob/master/javascript/10_days_of_javascript/day_3/throw.js) | Easy |
 
 ### SQL (Structured Query Language)
 | Problem Set | Solution | Difficulty |
