@@ -63,6 +63,9 @@
 | [Day 3: Arrays](https://www.hackerrank.com/challenges/js10-arrays/problem) | [JavaScript](https://github.com/gianmillare/HackerRank/blob/master/javascript/10_days_of_javascript/day_3/arrays.js) | Easy |
 | [Day 3: Try, Catch, and Finally](https://www.hackerrank.com/challenges/js10-try-catch-and-finally/problem) | [JavaScript](https://github.com/gianmillare/HackerRank/blob/master/javascript/10_days_of_javascript/day_3/try_catch_and_finally.js) | Easy |
 | [Day 3: Throw](https://www.hackerrank.com/challenges/js10-throw/problem) | [JavaScript](https://github.com/gianmillare/HackerRank/blob/master/javascript/10_days_of_javascript/day_3/throw.js) | Easy |
+| [Day 4: Create a Rectangle Object](https://www.hackerrank.com/challenges/js10-objects/problem) | [JavaScript](https://github.com/gianmillare/HackerRank/blob/master/javascript/10_days_of_javascript/day_4/create_a_rectangle_object.js) | Easy |
+| [Day 4: Count Objects](https://www.hackerrank.com/challenges/js10-count-objects/problem) | [JavaScript](https://github.com/gianmillare/HackerRank/blob/master/javascript/10_days_of_javascript/day_4/count_objects.js) | Easy |
+| [Day 4: Classes](https://www.hackerrank.com/challenges/js10-class/problem) | [JavaScript](https://github.com/gianmillare/HackerRank/blob/master/javascript/10_days_of_javascript/day_4/classes.js) | Easy |
 
 ### SQL (Structured Query Language)
 | Problem Set | Solution | Difficulty |
