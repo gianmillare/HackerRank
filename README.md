@@ -66,6 +66,9 @@
 | [Day 4: Create a Rectangle Object](https://www.hackerrank.com/challenges/js10-objects/problem) | [JavaScript](https://github.com/gianmillare/HackerRank/blob/master/javascript/10_days_of_javascript/day_4/create_a_rectangle_object.js) | Easy |
 | [Day 4: Count Objects](https://www.hackerrank.com/challenges/js10-count-objects/problem) | [JavaScript](https://github.com/gianmillare/HackerRank/blob/master/javascript/10_days_of_javascript/day_4/count_objects.js) | Easy |
 | [Day 4: Classes](https://www.hackerrank.com/challenges/js10-class/problem) | [JavaScript](https://github.com/gianmillare/HackerRank/blob/master/javascript/10_days_of_javascript/day_4/classes.js) | Easy |
+| [Day 5: Inheritance](https://www.hackerrank.com/challenges/js10-inheritance/problem) | [JavaScript](https://github.com/gianmillare/HackerRank/blob/master/javascript/10_days_of_javascript/day_5/inheritance.js) | Easy |
+| [Day 5: Template Literals](https://www.hackerrank.com/challenges/js10-template-literals/problem) | [JavaScript](https://github.com/gianmillare/HackerRank/blob/master/javascript/10_days_of_javascript/day_5/template_literals.js) | Easy |
+| [Day 5: Arrow Functions](https://www.hackerrank.com/challenges/js10-arrows/problem) | [JavaScript](https://github.com/gianmillare/HackerRank/blob/master/javascript/10_days_of_javascript/day_5/arrow_functions.js) | Easy |
 
 ### SQL (Structured Query Language)
 | Problem Set | Solution | Difficulty |
