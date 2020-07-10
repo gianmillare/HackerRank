@@ -69,6 +69,9 @@
 | [Day 5: Inheritance](https://www.hackerrank.com/challenges/js10-inheritance/problem) | [JavaScript](https://github.com/gianmillare/HackerRank/blob/master/javascript/10_days_of_javascript/day_5/inheritance.js) | Easy |
 | [Day 5: Template Literals](https://www.hackerrank.com/challenges/js10-template-literals/problem) | [JavaScript](https://github.com/gianmillare/HackerRank/blob/master/javascript/10_days_of_javascript/day_5/template_literals.js) | Easy |
 | [Day 5: Arrow Functions](https://www.hackerrank.com/challenges/js10-arrows/problem) | [JavaScript](https://github.com/gianmillare/HackerRank/blob/master/javascript/10_days_of_javascript/day_5/arrow_functions.js) | Easy |
+| [Day 6: Bitwise Operators](https://www.hackerrank.com/challenges/js10-bitwise/problem) | [JavaScript](https://github.com/gianmillare/HackerRank/blob/master/javascript/10_days_of_javascript/day_6/bitwise_operators.js) | Easy |
+| [Day 6: JavaScript Dates](https://www.hackerrank.com/challenges/js10-date/problem) | [JavaScript](https://github.com/gianmillare/HackerRank/blob/master/javascript/10_days_of_javascript/day_6/javascript_dates.js) | Easy | 
+
 
 ### SQL (Structured Query Language)
 | Problem Set | Solution | Difficulty |
