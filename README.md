@@ -71,6 +71,9 @@
 | [Day 5: Arrow Functions](https://www.hackerrank.com/challenges/js10-arrows/problem) | [JavaScript](https://github.com/gianmillare/HackerRank/blob/master/javascript/10_days_of_javascript/day_5/arrow_functions.js) | Easy |
 | [Day 6: Bitwise Operators](https://www.hackerrank.com/challenges/js10-bitwise/problem) | [JavaScript](https://github.com/gianmillare/HackerRank/blob/master/javascript/10_days_of_javascript/day_6/bitwise_operators.js) | Easy |
 | [Day 6: JavaScript Dates](https://www.hackerrank.com/challenges/js10-date/problem) | [JavaScript](https://github.com/gianmillare/HackerRank/blob/master/javascript/10_days_of_javascript/day_6/javascript_dates.js) | Easy | 
+| [Day 7: Regular Expressions I](https://www.hackerrank.com/challenges/js10-regexp-1/problem) | [JavaScript](https://github.com/gianmillare/HackerRank/blob/master/javascript/10_days_of_javascript/day_7/regular_expressions_1.js) | Easy |
+| [Day 7: Regular Expressions II](https://www.hackerrank.com/challenges/js10-regexp-2/problem) | [JavaScript](https://github.com/gianmillare/HackerRank/blob/master/javascript/10_days_of_javascript/day_7/regular_expressions_2.js) | Easy |
+| [Day 7: Regular Expressions III](https://www.hackerrank.com/challenges/js10-regexp-3/problem) | [JavaScript](https://github.com/gianmillare/HackerRank/blob/master/javascript/10_days_of_javascript/day_7/regular_expressions_3.js) | Easy |
 
 
 ### SQL (Structured Query Language)
