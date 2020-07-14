@@ -74,6 +74,8 @@
 | [Day 7: Regular Expressions I](https://www.hackerrank.com/challenges/js10-regexp-1/problem) | [JavaScript](https://github.com/gianmillare/HackerRank/blob/master/javascript/10_days_of_javascript/day_7/regular_expressions_1.js) | Easy |
 | [Day 7: Regular Expressions II](https://www.hackerrank.com/challenges/js10-regexp-2/problem) | [JavaScript](https://github.com/gianmillare/HackerRank/blob/master/javascript/10_days_of_javascript/day_7/regular_expressions_2.js) | Easy |
 | [Day 7: Regular Expressions III](https://www.hackerrank.com/challenges/js10-regexp-3/problem) | [JavaScript](https://github.com/gianmillare/HackerRank/blob/master/javascript/10_days_of_javascript/day_7/regular_expressions_3.js) | Easy |
+| [Day 8: Create a Button](https://www.hackerrank.com/challenges/js10-create-a-button?hr_b=1) | [JavaScript](https://github.com/gianmillare/HackerRank/blob/master/javascript/10_days_of_javascript/day_8/create_a_button.js) | Easy |
+| [Day 8: Buttons Container](https://www.hackerrank.com/challenges/js10-buttons-container?hr_b=1) | [JavaScript](https://github.com/gianmillare/HackerRank/blob/master/javascript/10_days_of_javascript/day_8/buttons_container.js) | Easy |
 
 
 ### SQL (Structured Query Language)
