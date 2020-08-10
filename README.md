@@ -11,7 +11,7 @@
 | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/problem_solving_algorithms/easy/compare_the_triplets.py) [JavaScript](https://github.com/gianmillare/HackerRank/blob/master/problem_solving_algorithms/easy/compare_the_triplets.js) | Easy |
 | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/problem_solving_algorithms/easy/simple_array_sum.py) [JavaScript](https://github.com/gianmillare/HackerRank/blob/master/problem_solving_algorithms/easy/simple_array_sum.js) | Easy |
 | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/problem_solving_algorithms/easy/solve_me_first.py) [JavaScript](https://github.com/gianmillare/HackerRank/blob/master/problem_solving_algorithms/easy/solve_me_first.js)| Easy |
-| [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/problem_solving_algorithms/easy/birthday_cake_candles.py) | Easy |
+| [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/problem_solving_algorithms/easy/birthday_cake_candles.py) [JavaScript](https://github.com/gianmillare/HackerRank/blob/master/problem_solving_algorithms/easy/birthday_cake_candles.js) | Easy |
 
 ### Problem Solving - Data Structures
 | Problem Set | Solution | Difficulty |
