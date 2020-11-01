@@ -39,18 +39,22 @@ def mean(size, num):
 
 def median(size, num):
     num = format(num)
-    if len(num) / 2 != 0:
-        return num[int(len(num) / 2) + 1]
+    if size % 2 != 0:
+        return num[(size / 2) + 1]
     else:
-        x = num[int(len(num) / 2)]
-        y = num[int(len(num) / 2) + 1]
-        return round(sum([x, y]) / 2)
+        x = num[int(size / 2) - 1]
+        y = num[int(size / 2)]
+        return round(sum([x, y]) / 2, 1)
 
 def mode(size, num):
     num = format(num)
     result = frequency(num)
     return result
 
-print(mean(size, "64630 11735 14216 99233 14470 4978 73429 38120 51135 67060"))
+# print(mean(size, num))
+# print(median(size, num))
+# print(mode(size, num))
+
+# print(mean(size, "64630 11735 14216 99233 14470 4978 73429 38120 51135 67060"))
 # print(median(size, "64630 11735 14216 99233 14470 4978 73429 38120 51135 67060"))
 # print(mode(size, "64630 11735 14216 99233 14470 4978 73429 38120 51135 67060"))
