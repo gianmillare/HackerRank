@@ -51,6 +51,11 @@
 | [Set .discard(), .remove() & .pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/easy/set_discard_remove_pop.py) | Easy |
 | [Incorrect Regex](https://www.hackerrank.com/challenges/incorrect-regex/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/easy/incorrect_regex.py) | Easy |
 
+### Python (10 Days of Statistics - HackerRank Event)
+| Problem Set | Solution | Difficulty |
+| ------------- | ------------- | ------------- |
+| [Day 0: Mean, Median, and Mode](https://www.hackerrank.com/challenges/s10-basic-statistics/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/10_days_of_statistics/0_mean_median_mode.py) | Easy |
+
 ### JavaScript (10 Days of JavaScript - HackerRank Event)
 | Problem Set | Solution | Difficulty |
 | ------------- | ------------- | ------------- |
