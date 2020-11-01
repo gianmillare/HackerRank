@@ -3,7 +3,7 @@
 
 # Solution 1: Hard coding the solution
 size = int(input())
-# num = input()
+num = input()
 
 def format(num):
     return sorted(list(map(int, num.split())))
@@ -26,7 +26,9 @@ def frequency(num):
 
     for i in occurrences:
         if occurrences[i] == max:
-            max_numbers.append(occurrences[i])
+            max_numbers.append(i)
+    
+    max_numbers.sort()
     
     if len(max_numbers) > 1:
         return sorted(max_numbers)[0]
@@ -51,10 +53,11 @@ def mode(size, num):
     result = frequency(num)
     return result
 
-# print(mean(size, num))
-# print(median(size, num))
-# print(mode(size, num))
+print(mean(size, num))
+print(median(size, num))
+print(mode(size, num))
+
 
 # print(mean(size, "64630 11735 14216 99233 14470 4978 73429 38120 51135 67060"))
 # print(median(size, "64630 11735 14216 99233 14470 4978 73429 38120 51135 67060"))
-# print(mode(size, "64630 11735 14216 99233 14470 4978 73429 38120 51135 67060"))
+print(mode(size, "64630 11735 14216 99233 14470 4978 73429 38120 51135 67060"))
