@@ -5,11 +5,21 @@
 size = int(input())
 num = input()
 
+def format(num):
+    return list(map(int, num.split()))
+
 def mean(size, num):
-    return num
+    num = format(num)
+    return round(sum(num) / size, 1)
 
 def median(size, num):
-    return num
+    num = format(num).sort()
+    if len(num) / 2 != 0:
+        return num[int(len(num) / 2) + 1]
+    else:
+        x = num[int(len(num) / 2)]
+        y = num[int(len(num) / 2) + 1]
+        return round(sum([x, y]) / 2)
 
 def mode(size, num):
     return num
