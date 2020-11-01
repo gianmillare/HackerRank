@@ -3,20 +3,48 @@
 
 # Stuart words MUST start with consonants and Kevins words MUST start with vowels
 stuart, kevin = {}, {}
+# Define vowels
+vowels = ["A", "E", "I", "O", "U"]
+
+def each_letter(word):
+    for i in word:
+        if i in vowels:
+            if i in kevin:
+                kevin[i] += 1
+            else:
+                kevin[i] = 1
+        else:
+            if i in stuart:
+                stuart[i] += 1
+            else:
+                stuart[i] = 1
+    return None
+
 
 def minion_game(s):
-    # define the vowels
-    vowels = "aeiou"
+    # Split the string into a list of letters
+    word = list(s.upper())
 
-    # append the entire word into its respective dictionary
-    if s[0] in vowels:
-        kevin[s] = 1
-    else:
-        stuart[s] = 1
+    # run the first function that will append each letter to its respective dictionary
+    each_letter(word)
     
+    # for i in range(0, len(word)):
+    #     if word[i] in vowels:
+    #         sub_string = "".join(word[i:])
+    #         if sub_string in kevin:
+    #             kevin[sub_string] += 1
+    #         else:
+    #             kevin[sub_string] = 1
+    #     else:
+    #         sub_string = "".join(word[i:])
+    #         if sub_string in stuart:
+    #             stuart[sub_string] += 1
+    #         else:
+    #             stuart[sub_string] = 1
     
+    print(stuart)
+    print(kevin)
 
-
-    return s
+    return "function complete"
 
 print(minion_game("BANANA"))
