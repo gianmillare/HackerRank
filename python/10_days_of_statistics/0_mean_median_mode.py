@@ -3,10 +3,10 @@
 
 # Solution 1: Hard coding the solution
 size = int(input())
-num = input()
+# num = input()
 
 def format(num):
-    return list(map(int, num.split()))
+    return sorted(list(map(int, num.split())))
 
 def frequency(num):
     occurrences = {}
@@ -29,7 +29,7 @@ def frequency(num):
             max_numbers.append(occurrences[i])
     
     if len(max_numbers) > 1:
-        return max_numbers.sort()[0]
+        return sorted(max_numbers)[0]
     else:
         return max_numbers[0]
 
@@ -38,7 +38,7 @@ def mean(size, num):
     return round(sum(num) / size, 1)
 
 def median(size, num):
-    num = format(num).sort()
+    num = format(num)
     if len(num) / 2 != 0:
         return num[int(len(num) / 2) + 1]
     else:
@@ -47,10 +47,10 @@ def median(size, num):
         return round(sum([x, y]) / 2)
 
 def mode(size, num):
-    num = format(num).sort()
+    num = format(num)
     result = frequency(num)
     return result
 
-print(mean(size, num))
-print(median(size, num))
-print(mode(size, num))
+print(mean(size, "64630 11735 14216 99233 14470 4978 73429 38120 51135 67060"))
+# print(median(size, "64630 11735 14216 99233 14470 4978 73429 38120 51135 67060"))
+# print(mode(size, "64630 11735 14216 99233 14470 4978 73429 38120 51135 67060"))
