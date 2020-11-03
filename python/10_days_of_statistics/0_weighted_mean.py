@@ -8,12 +8,21 @@ def reformat(size, array1, array2):
     w = list(map(int, array2.split(" ")))
     return [size, x, w]
 
+def averaging(size, x, w):
+    weighted_averages = []
+
+    for i in range(size):
+        weighted_averages.append(x[i] * w[i])
+    
+    return weighted_averages
+
 def weighted_mean(size, x, w):
     reformatted = reformat(size, x, w)
     size, x, w = reformatted[0], reformatted[1], reformatted[2]
-    print(size)
-    print(x)
-    print(w)
+
+    weighted_averages = averaging(size, x, w)
+    print(sum(weighted_averages))
+
     
 
 print(weighted_mean("5", "10 40 30 50 20", "1 2 3 4 5"))
