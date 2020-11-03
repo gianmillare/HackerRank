@@ -55,6 +55,7 @@
 | Problem Set | Solution | Difficulty |
 | ------------- | ------------- | ------------- |
 | [Day 0: Mean, Median, and Mode](https://www.hackerrank.com/challenges/s10-basic-statistics/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/10_days_of_statistics/0_mean_median_mode.py) | Easy |
+| [Day 0: Weighted Mean](https://www.hackerrank.com/challenges/s10-weighted-mean/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/10_days_of_statistics/0_weighted_mean.py) | Easy |
 
 ### JavaScript (10 Days of JavaScript - HackerRank Event)
 | Problem Set | Solution | Difficulty |
