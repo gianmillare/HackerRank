@@ -42,6 +42,15 @@ def q3(array, condition):
         lower_bounds = sub_array[int(len(sub_array) / 2) - 1]
         higher_bounds = sub_array[int(len(sub_array) / 2)]
         return [lower_bounds, higher_bounds]
+    else:
+        boundary = int(len(array) / 2)
+        sub_array = array[boundary:]
+        if len(sub_array) % 2 != 0:
+            return [sub_array[int(len(sub_array) / 2)]]
+        else:
+            lower_bounds = sub_array[int(len(sub_array) / 2) - 1]
+            higher_bounds = sub_array[int(len(sub_array) / 2)]
+            return [lower_bounds, higher_bounds]
 
 # Main Function
 def find_quartiles(size, array):
@@ -62,7 +71,7 @@ def find_quartiles(size, array):
         # for quartile 1 of the array
         q1_bounds = q1(array, condition)
         if len(q1_bounds) > 1:
-            quartile_1 = int(sum(q1_bounds)) / 2
+            quartile_1 = int(sum(q1_bounds) / 2)
         else:
             quartile_1 = q1_bounds[0]
         
@@ -70,10 +79,15 @@ def find_quartiles(size, array):
         q2_bounds = q2(array)
         quartile_2 = int(sum(q2_bounds) / 2)
 
-
+        # for quartile 3 of the array
+        q3_bounds = q3(array, condition)
+        if len(q3_bounds) > 1:
+            quartile_3 = int(sum(q3_bounds) / 2)
+        else:
+            quartile_3 = q3_bounds[0]
     
-    return quartile_1, quartile_2
+    return [quartile_1, quartile_2, quartile_3]
 
-# print(find_quartiles("9", "3 7 8 5 12 14 21 13 18")) # 6 | 12 | 16
-print(find_quartiles("10", "3 7 8 5 12 14 21 13 18 24"))
+print(find_quartiles("9", "3 7 8 5 12 14 21 13 18")) # 6 | 12 | 16
+# print(find_quartiles("10", "3 7 8 5 12 14 21 13 18 24"))
 # print(find_quartiles("10", "3 7 8 5 12 14 21 13"))
