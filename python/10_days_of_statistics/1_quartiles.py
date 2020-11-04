@@ -13,7 +13,7 @@ def reformat(size, array):
 def q1(array):
     boundary = int(len(array) / 2)
     sub_array = array[:boundary]
-    lower_bounds = sub_array[int((len(sub_array) / 2) - 1)]
+    lower_bounds = sub_array[int(len(sub_array) / 2) - 1]
     higher_bounds = sub_array[int(len(sub_array) / 2)]
     return [lower_bounds, higher_bounds]
 
@@ -23,7 +23,11 @@ def q2(array):
 
 # function to return quartile 3
 def q3(array):
-    
+    boundary = int(len(array) / 2) + 1
+    sub_array = array[boundary:]
+    lower_bounds = sub_array[int(len(sub_array) / 2) - 1]
+    higher_bounds = sub_array[int(len(sub_array) / 2)]
+    return [lower_bounds, higher_bounds]
 
 # Main Function
 def find_quartiles(size, array):
@@ -36,7 +40,8 @@ def find_quartiles(size, array):
         q1_bounds = q1(array)
         quartile_1 = int((q1_bounds[0] + q1_bounds[1]) / 2)
         q3_bounds = q3(array)
+        quartile_3 = int((q3_bounds[0] + q3_bounds[1]) / 2)
     
-    return quartile_2, quartile_1
+    return quartile_1, quartile_2, quartile_3
 
 print(find_quartiles("9", "3 7 8 5 12 14 21 13 18")) # 6 | 12 | 16
