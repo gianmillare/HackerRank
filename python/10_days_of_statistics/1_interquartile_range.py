@@ -1,6 +1,7 @@
 # Day 1: Interquartile Range
 # https://www.hackerrank.com/challenges/s10-interquartile-range/problem
 
+# Solution 1: Working solution but not all cases solved
 # Step 1: Reformat the inputs
 def reformat(size, x, f):
     size = int(size)
@@ -70,8 +71,37 @@ def interquartile(size, x, f):
     
     return third_quartile - first_quartile
 
-# print(interquartile("6", "6 12 8 10 20 16", "5 4 3 2 1 5"))
+# -------------------------    Optional Solution via HackerRank Discussion --------------------------
+
+import statistics as st
+
+def interquartile_2(size, x, f):
+    reformatted = reformat(size, x, f)
+    size = reformatted[0]
+    x = reformatted[1]
+    f = reformatted[2]
+
+    results = []
+
+    for i in range(size):
+        results += [x[i]] * f[i]
+    
+    summed_frequency = sum(results)
+    results.sort()
+
+    if size % 2 != 0:
+        q1 = st.median(results[:summed_frequency // 2])
+        q3 = st.median(results[summed_frequency // 2 + 1:])
+    else:
+        q1 = st.median(results[:summed_frequency // 2])
+        q3 = st.median(results[summed_frequency // 2:])
+    
+    interquartile_range = round(float(q3 - q1), 1)
+    
+    return interquartile_range
+
+print(interquartile_2("6", "6 12 8 10 20 16", "5 4 3 2 1 5"))
 # print(interquartile("6", "6 12 8 10 20 16", "5 4 3 2 1 4"))
-print(interquartile("30", 
-                    "10 40 30 50 20 10 40 30 50 20 1 2 3 4 5 6 7 8 9 10 20 10 40 30 50 20 10 40 30 50", 
-                    "1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 10 40 30 50 20 10 40 30 50 20"))
+# print(interquartile_2("30", 
+                    # "10 40 30 50 20 10 40 30 50 20 1 2 3 4 5 6 7 8 9 10 20 10 40 30 50 20 10 40 30 50", 
+                    # "1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 10 40 30 50 20 10 40 30 50 20"))
