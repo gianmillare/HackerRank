@@ -38,8 +38,14 @@ def q1(lower_half):
         upper_bounds = lower_half[int(len(lower_half) / 2)]
         return round((upper_bounds + lower_bounds) / 2, 1)
 
-
 # Step 5: Get quartile 3
+def q3(upper_half):
+    if len(upper_half) % 2 != 0:
+        return upper_half[int(len(upper_half) / 2)]
+    else:
+        lower_bounds = upper_half[int(len(upper_half) / 2) - 1]
+        upper_bounds = upper_half[int(len(upper_half) / 2)]
+        return round((upper_bounds + lower_bounds) / 2, 1)
 
 # Main Function:
 def interquartile(size, x, f):
@@ -58,7 +64,10 @@ def interquartile(size, x, f):
 
     # get quartile 1 value
     first_quartile = q1(lower_half)
+
+    # get quartile 3 value
+    third_quartile = q3(upper_half)
     
-    return first_quartile
+    return third_quartile
 
 print(interquartile("6", "6 12 8 10 20 16", "5 4 3 2 1 5"))
