@@ -30,6 +30,14 @@ def split_frequency(x):
     return [lower_half, upper_half]
 
 # Step 4: Get quartile 1
+def q1(lower_half):
+    if len(lower_half) % 2 != 0:
+        return lower_half[int(len(lower_half) / 2)]
+    else:
+        lower_bounds = lower_half[int(len(lower_half) / 2) - 1]
+        upper_bounds = lower_half[int(len(lower_half) / 2)]
+        return round((upper_bounds + lower_bounds) / 2, 1)
+
 
 # Step 5: Get quartile 3
 
@@ -47,7 +55,10 @@ def interquartile(size, x, f):
     split_frequencies = split_frequency(element_by_frequency)
     lower_half = split_frequencies[0]
     upper_half = split_frequencies[1]
+
+    # get quartile 1 value
+    first_quartile = q1(lower_half)
     
-    return upper_half
+    return first_quartile
 
 print(interquartile("6", "6 12 8 10 20 16", "5 4 3 2 1 5"))
