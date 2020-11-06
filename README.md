@@ -57,6 +57,7 @@
 | [Day 0: Mean, Median, and Mode](https://www.hackerrank.com/challenges/s10-basic-statistics/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/10_days_of_statistics/0_mean_median_mode.py) | Easy |
 | [Day 0: Weighted Mean](https://www.hackerrank.com/challenges/s10-weighted-mean/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/10_days_of_statistics/0_weighted_mean.py) | Easy |
 | [Day 1: Quartiles](https://www.hackerrank.com/challenges/s10-quartiles/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/10_days_of_statistics/1_quartiles.py) | Easy |
+| [Day 1: Interquartile Range](https://www.hackerrank.com/challenges/s10-interquartile-range/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/10_days_of_statistics/1_interquartile_range.py) | Easy |
 
 ### JavaScript (10 Days of JavaScript - HackerRank Event)
 | Problem Set | Solution | Difficulty |
