@@ -2,6 +2,7 @@
 # https://www.hackerrank.com/challenges/s10-standard-deviation/problem
 
 # Standard Deviation formula: sqrt(sum((value - mean)^2) / N)
+import math
 
 # Step 1: reformat the input into an integer-readable format
 def reformat(size, array):
@@ -22,10 +23,9 @@ def squared_distance(size, array, mean):
     
     return value_distances
 
-
 # Step 4: Complete the function by dividing the summed squared distance by the number of values, and square root the result
 def square_root_distances(size, array):
-    return array
+    return math.sqrt( sum(array) / size )
 
 # Main Function
 def standard_deviation(size, array):
@@ -36,8 +36,9 @@ def standard_deviation(size, array):
 
     value_distances = squared_distance(size, array, mean)
 
-    return value_distances
+    standard_deviation = square_root_distances(size, value_distances)
 
+    return round(standard_deviation, 1)
 
 print(standard_deviation("5", "10 40 30 50 20"))
 # 10 days of stats, standard deviation
