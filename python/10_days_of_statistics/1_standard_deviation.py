@@ -5,7 +5,9 @@
 
 # Step 1: reformat the input into an integer-readable format
 def reformat(size, array):
-    return array
+    size = int(size)
+    array = list(map(int, array.split()))
+    return [size, array]
 
 # Step 2: find the mean of the array
 def array_mean(size, array):
@@ -21,6 +23,10 @@ def square_root_distances(size, array):
 
 # Main Function
 def standard_deviation(size, array):
-    return array
+    reformatted = reformat(size, array)
+    size, array = reformatted[0], reformatted[1]
+
+    return size, array
+
 
 print(standard_deviation("5", "10 40 30 50 20"))
