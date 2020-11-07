@@ -11,7 +11,7 @@ def reformat(size, array):
 
 # Step 2: find the mean of the array
 def array_mean(size, array):
-    return array
+    return sum(array) / size
 
 # Step 3: create a new array consisting of all results from (value - mean)^2 and return its sum
 def squared_distance(size, array):
@@ -26,7 +26,9 @@ def standard_deviation(size, array):
     reformatted = reformat(size, array)
     size, array = reformatted[0], reformatted[1]
 
-    return size, array
+    mean = array_mean(size, array)
+
+    return mean
 
 
 print(standard_deviation("5", "10 40 30 50 20"))
