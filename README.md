@@ -59,6 +59,7 @@
 | [Day 1: Quartiles](https://www.hackerrank.com/challenges/s10-quartiles/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/10_days_of_statistics/1_quartiles.py) | Easy |
 | [Day 1: Interquartile Range](https://www.hackerrank.com/challenges/s10-interquartile-range/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/10_days_of_statistics/1_interquartile_range.py) | Easy |
 | [Day 1: Standard Deviation](https://www.hackerrank.com/challenges/s10-standard-deviation/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/10_days_of_statistics/1_standard_deviation.py) | Easy |
+| [Day 2: Basic Probability](https://www.hackerrank.com/challenges/s10-mcq-1/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/10_days_of_statistics/2_basic_probability.py) | Easy |
 
 ### JavaScript (10 Days of JavaScript - HackerRank Event)
 | Problem Set | Solution | Difficulty |
