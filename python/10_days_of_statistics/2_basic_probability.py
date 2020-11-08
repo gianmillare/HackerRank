@@ -20,9 +20,9 @@ def probability(possibilities):
     for key in possibilities:
         outcomes.append(len(possibilities[key]))
 
-    return outcomes
+    sum_of_outcomes = sum(outcomes)
+    total_number_of_possibilites = 36 # P(A and B) == 6 x 6 = 36
 
+    return str(sum_of_outcomes) + "/" + str(total_number_of_possibilites)
+    
 print(probability(possibilities))
-
-
-# 10 days of stats, basic probability
