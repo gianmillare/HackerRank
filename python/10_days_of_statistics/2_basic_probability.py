@@ -13,3 +13,16 @@ possibilities = {
     5: [1, 2, 3, 4], # 4 outcomes, max 9
     6: [1, 2, 3] # 3 outcomes, max 9
 }
+
+# Find Probability
+def probability(possibilities):
+    outcomes = []
+    for key in possibilities:
+        outcomes.append(len(possibilities[key]))
+
+    return outcomes
+
+print(probability(possibilities))
+
+
+# 10 days of stats, basic probability
