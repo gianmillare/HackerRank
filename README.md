@@ -50,6 +50,7 @@
 | [Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/easy/symmetric_difference.py) | Easy |
 | [Set .discard(), .remove() & .pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/easy/set_discard_remove_pop.py) | Easy |
 | [Incorrect Regex](https://www.hackerrank.com/challenges/incorrect-regex/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/easy/incorrect_regex.py) | Easy |
+| [Power - Mod Power](https://www.hackerrank.com/challenges/python-power-mod-power/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/easy/power_mod_power.py) | Easy |
 
 ### Python (10 Days of Statistics - HackerRank Event)
 | Problem Set | Solution | Difficulty |
