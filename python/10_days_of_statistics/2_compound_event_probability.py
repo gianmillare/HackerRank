@@ -32,3 +32,15 @@ def compound_event(probability_x_red, probability_y_red, probability_z_red, prob
     black_red_red = probability_x_black * probability_y_red * probability_z_red
 
     return red_red_black + red_black_red + black_red_red
+
+print(compound_event(probability_x_red, probability_y_red, probability_z_red, probability_x_black, probability_y_black, probability_z_black))
+# answer = 0.40476190476190477
+
+# ----------------------------------------------------------------------------------------
+
+# HackerRank Solution
+
+print(f"A = {10 / 63}")
+print(f"B = {2 / 7}")
+print(f"C = {17 / 42}") # Answer --> 0.40476190476190477
+print(f"D = {31 / 126}")
