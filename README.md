@@ -62,6 +62,9 @@
 | [Day 1: Standard Deviation](https://www.hackerrank.com/challenges/s10-standard-deviation/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/10_days_of_statistics/1_standard_deviation.py) | Easy |
 | [Day 2: Basic Probability](https://www.hackerrank.com/challenges/s10-mcq-1/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/10_days_of_statistics/2_basic_probability.py) | Easy |
 | [Day 2: More Dice](https://www.hackerrank.com/challenges/s10-mcq-2/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/10_days_of_statistics/2_more_dice.py) | Easy |
+| [Day 2: Compound Event Probability](https://www.hackerrank.com/challenges/s10-mcq-3/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/10_days_of_statistics/2_compound_event_probability.py) | Easy |
+| [Day 3: Conditional Probability](https://www.hackerrank.com/challenges/s10-mcq-4/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/10_days_of_statistics/3_conditional_probability.py) | Easy |
+| [Day 3: Cards of the Same Suit](https://www.hackerrank.com/challenges/s10-mcq-5/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/10_days_of_statistics/3_cards_of_the_same_suit.py) | Easy |
 
 ### JavaScript (10 Days of JavaScript - HackerRank Event)
 | Problem Set | Solution | Difficulty |
