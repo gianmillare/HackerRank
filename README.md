@@ -66,6 +66,7 @@
 | [Day 3: Conditional Probability](https://www.hackerrank.com/challenges/s10-mcq-4/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/10_days_of_statistics/3_conditional_probability.py) | Easy |
 | [Day 3: Cards of the Same Suit](https://www.hackerrank.com/challenges/s10-mcq-5/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/10_days_of_statistics/3_cards_of_the_same_suit.py) | Easy |
 | [Day 3: Drawing Marbles](https://www.hackerrank.com/challenges/s10-mcq-6/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/10_days_of_statistics/3_drawing_marbles.py) | Easy |
+| [Day 4: Binomial Distribution I](https://www.hackerrank.com/challenges/s10-binomial-distribution-1/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/python/10_days_of_statistics/4_binomial_distribution_I.py) | Easy |
 
 ### JavaScript (10 Days of JavaScript - HackerRank Event)
 | Problem Set | Solution | Difficulty |
