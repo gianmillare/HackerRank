@@ -5,8 +5,19 @@
 
 # Assign both inputs to variables
 ratio_1, ratio_2 = list(map(float, input().split(" ")))
-ratio = ratio_1 / ratio_2
+odds = ratio_1 / ratio_2
+probability = odds / (odds + 1)
 
 # Function to run factorial formula
-def fact(n):
-    return 1 if n == 0 else n*fact(n-1)
+def fact(total):
+    return 1 if total == 0 else total * fact(total - 1)
+
+# Note the formula for permutations ==> n! / x!(n-x)! where n is the number of trials and x is the number of success
+def permutate(total, successes):
+    return fact(total) / (fact(successes) * fact(total - successes))
+
+# Main: Binomial Distribution formula written in code
+def binomial_dist(total, successes, probability):
+    return permutate(total, successes) * probability**successes * (1 - probability)**(total-successes)
+
+print(round(sum([binomial_dist(i, 6, probability) for i in range(3, 7)]), 3))
