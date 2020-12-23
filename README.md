@@ -3,6 +3,7 @@
 ### Problem Solving - Algorithms
 | Problem Set | Solution | Difficulty |
 | ------------- | ------------- | ------------- |
+| [Grading Students](https://www.hackerrank.com/challenges/grading/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/problem_solving_algorithms/easy/grading_students.py) [JavaScript](https://github.com/gianmillare/HackerRank/blob/master/problem_solving_algorithms/easy/grading_students.js) | Easy |
 | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/problem_solving_algorithms/easy/mini_max_sum.py) | Easy |
 | [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/problem_solving_algorithms/easy/staircase.py) | Easy |
 | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/problem_solving_algorithms/easy/plus_minus.py) | Easy |
