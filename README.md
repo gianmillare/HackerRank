@@ -3,6 +3,7 @@
 ### Problem Solving - Algorithms
 | Problem Set | Solution | Difficulty |
 | ------------- | ------------- | ------------- |
+| [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/problem_solving_algorithms/easy/time_conversion.py) [JavaScript](https://github.com/gianmillare/HackerRank/blob/master/problem_solving_algorithms/easy/time_conversion.js) | Easy |
 | [Grading Students](https://www.hackerrank.com/challenges/grading/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/problem_solving_algorithms/easy/grading_students.py) [JavaScript](https://github.com/gianmillare/HackerRank/blob/master/problem_solving_algorithms/easy/grading_students.js) | Easy |
 | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/problem_solving_algorithms/easy/mini_max_sum.py) | Easy |
 | [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | [Python](https://github.com/gianmillare/HackerRank/blob/master/problem_solving_algorithms/easy/staircase.py) | Easy |
